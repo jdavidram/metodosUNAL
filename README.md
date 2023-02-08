@@ -58,7 +58,7 @@
 
 * (5.9) Ecuaciones diferenciales de orden superior
 
-## Capítulo 6: SOLUCION NUMERICA DE ECUACIONES DIFERENCIALES. Problemas con valores en la frontera. Ecuaciones elÍpticas
+## Capítulo 6: SOLUCIÓN NUMÉRICA DE ECUACIONES DIFERENCIALES. Problemas con valores en la frontera. Ecuaciones elÍpticas
 
 * (11.1) Problemas con valores en la frontera. El metodo del disparo lineal
 * (4.1) Derivación numérica
